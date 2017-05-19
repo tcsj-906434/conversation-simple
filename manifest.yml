@@ -9,8 +9,7 @@ applications:
   path: .
   memory: 256M
   instances: 1
-  services:
-    Conversation-h6
+  services: Conversation-h6
   env:
     NPM_CONFIG_PRODUCTION: false
     
