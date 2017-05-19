@@ -13,4 +13,3 @@ applications:
   - Conversation-h6
   env:
     NPM_CONFIG_PRODUCTION: false
-    
